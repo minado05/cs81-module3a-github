@@ -6,3 +6,7 @@ function greet(name) {
 function square(num) {
   return num * num;
 }
+
+function isEven(num) {
+  return num % 2 == 0;
+}
