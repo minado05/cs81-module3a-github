@@ -10,3 +10,11 @@ function square(num) {
 function isEven(num) {
   return num % 2 == 0;
 }
+
+function meow() {
+  return "meow";
+}
+
+function woof() {
+  return "woof";
+}
